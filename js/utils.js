@@ -85,6 +85,12 @@ $(document).ready( function () {
             url :  'images/ui/27.png',
         },
          {
+            url :  'images/ui/28.png',
+        },
+        {
+            url :  'images/ui/29.png',
+        },
+        {
             url :  'images/design/d1.png',
         },
     ];
