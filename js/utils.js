@@ -4,94 +4,94 @@ $(document).ready( function () {
     //Add picture paths here:
     var picturesToZoom = [
         {
-            url :  'images/ui/1.png',
+            url :  'images/ui/1.jpg',
         },
         {
-            url :  'images/ui/2.png',
+            url :  'images/ui/2.jpg',
         },
         {
-            url :  'images/ui/3.png',
+            url :  'images/ui/3.jpg',
         },
         {
-            url :  'images/ui/4.png',
+            url :  'images/ui/4.jpg',
         },
         {
-            url :  'images/ui/5.png',
+            url :  'images/ui/5.jpg',
         },
         {
-            url :  'images/ui/6.png',
+            url :  'images/ui/6.jpg',
         },
         {
-            url :  'images/ui/7.png',
+            url :  'images/ui/7.jpg',
         },
         {
-            url :  'images/ui/8.png',
+            url :  'images/ui/8.jpg',
         },
         {
-            url :  'images/ui/9.png',
+            url :  'images/ui/9.jpg',
         },
         {
-            url :  'images/ui/10.png',
+            url :  'images/ui/10.jpg',
         },
         {
-            url :  'images/ui/11.png',
+            url :  'images/ui/11.jpg',
         },
         {
-            url :  'images/ui/12.png',
+            url :  'images/ui/12.jpg',
         },
         {
-            url :  'images/ui/13.png',
+            url :  'images/ui/13.jpg',
         },
         {
-            url :  'images/ui/14.png',
+            url :  'images/ui/14.jpg',
         },
         {
             url :  'images/ui/15.gif',
         },
         {
-            url :  'images/ui/16.png',
+            url :  'images/ui/16.jpg',
         },
         {
             url :  'images/ui/17.gif',
         },
         {
-            url :  'images/ui/18.png',
+            url :  'images/ui/18.jpg',
         },
                 {
-            url :  'images/ui/19.png',
+            url :  'images/ui/19.jpg',
         },
         {
-            url :  'images/ui/20.png',
+            url :  'images/ui/20.jpg',
         },
         {
-            url :  'images/ui/21.png',
+            url :  'images/ui/21.jpg',
         },
         {
-            url :  'images/ui/22.png',
+            url :  'images/ui/22.jpg',
         },
         {
-            url :  'images/ui/23.png',
+            url :  'images/ui/23.jpg',
         },
         {
-            url :  'images/ui/24.png',
+            url :  'images/ui/24.jpg',
         },
         {
-            url :  'images/ui/25.png',
+            url :  'images/ui/25.jpg',
         },
         {
-            url :  'images/ui/26.png',
+            url :  'images/ui/26.jpg',
         },
         {
-            url :  'images/ui/27.png',
+            url :  'images/ui/27.jpg',
         },
          {
-            url :  'images/ui/28.png',
+            url :  'images/ui/28.jpg',
         },
         {
-            url :  'images/ui/29.png',
+            url :  'images/ui/29.jpg',
         },
         {
-            url :  'images/design/d1.png',
+            url :  'images/design/d1.jpg',
         },
     ];
     
