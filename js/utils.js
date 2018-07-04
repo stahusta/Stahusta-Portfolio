@@ -91,7 +91,10 @@ $(document).ready( function () {
             url :  'images/ui/29.jpg',
         },
         {
-            url :  'images/design/d1.jpg',
+            url :  'images/ui/30.gif',
+        },
+        {
+            url :  'images/ui/31.jpg',
         },
     ];
     
