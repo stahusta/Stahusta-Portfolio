@@ -10304,9 +10304,9 @@ return jQuery;
     // maxHeight: 600,
     positionFromTop: 50,
     resizeDuration: 700,
-    showImageNumberLabel: true,
+    showImageNumberLabel: false,
     wrapAround: false,
-    disableScrolling: false,
+    disableScrolling: true,
     /*
     Sanitize Title
     If the caption data is trusted, for example you are hardcoding it in, then leave this to false.

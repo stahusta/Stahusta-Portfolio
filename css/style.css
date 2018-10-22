@@ -90,6 +90,7 @@ a {
 a:hover, a:active, a:focus {
   color: #000;
   outline: none;
+    
 }
 
 * {
@@ -267,6 +268,15 @@ a:hover, a:active, a:focus {
   margin-top: 30px;
 }
 
+.portfolio-thumb {
+    transition: 0.3s;
+}
+
+.portfolio-thumb:hover{
+    transform: scale(0.98);
+	transition: 0.3s;
+}
+
 
 #portfolio .portfolio-thumb .portfolio-overlay {
   position: absolute;
@@ -380,26 +390,55 @@ footer hr {
 /*------------------------------------
     Social media
 -------------------------------------*/
-
+.dribbble{
+    text-decoration: none;
+    transition: 1s;
+    display: inline-block;
+}
 .dribbble:hover {
     color: #ea4c89;
-    font-size: 22px;
+    transform: scale(0.97);
+	transition: 0.3s;
+}
+.behance{
+    text-decoration: none;
+    transition: 1s;
+    display: inline-block;
 }
 .behance:hover {
     color: #1769ff;
-    font-size: 22px;
+    transform: scale(0.97);
+	transition: 0.3s;
+}
+.instagram{
+    text-decoration: none;
+    transition: 1s;
+    display: inline-block;
 }
 .instagram:hover {
     color: #bc2a8d;
-    font-size: 22px;
+    transform: scale(0.97);
+	transition: 0.3s;
+}
+.facebook{
+    text-decoration: none;
+    transition: 1s;
+    display: inline-block;
 }
 .facebook:hover {
     color: #3b5998;
-    font-size: 22px;
+    transform: scale(0.97);
+	transition: 0.3s;
+}
+.linkedin{
+    text-decoration: none;
+    transition: 1s;
+    display: inline-block;
 }
 .linkedin:hover {
     color: #bc2a8d;
-    font-size: 22px;
+    transform: scale(0.97);
+	transition: 0.3s;
 }
 
 
