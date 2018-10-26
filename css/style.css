@@ -254,13 +254,18 @@ a:hover, a:active, a:focus {
 #project .project-screen-mid {
   position: relative;
   margin-top: 30px;
-  cursor: pointer;
+  
+}
+
+#hero{
+    margin-top: 120px;
+    
 }
 
 #project .project-screen-behance {
   position: relative;
   margin-top: 0px;
-  cursor: pointer;
+  
 }
 
 #portfolio .portfolio-thumb {
@@ -337,7 +342,7 @@ a:hover, a:active, a:focus {
 #single-project .col-md-12 img,
 #single-project .col-md-6 img,
 #single-project .col-md-4 img {
-  cursor: pointer;
+  
   border-radius: 104px;
 }
 
